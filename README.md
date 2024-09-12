@@ -11,8 +11,4 @@ Hier findest du einen Zusammenzug der gesamtschweizerische Kennzahlen zur KESB d
 - Vergleichbar_Vorjahr -> Hinweis, ob der Wert mit Vorjahreswerten vergleichbar ist oder bei Auswertungen ausgeschlossen werden sollte (für Begründung siehe Bemerkungen)
 - Vergleichbar_AndereKantone -> Hinweis, ob der Wert mit den Werten der anderen Kantone vergleichbar ist oder bei Auswertungen ausgeschlossen werden sollte (für Begründung siehe Bemerkung)
 
-Quelle: Gemäss KESB-Kennzahlenbericht:
-https://kesb-zh.ch/medienmitteilungen-2/_
-
-_<sup>2</sup>Gemäss Bundesamt für Statistik, ständige + nicht-ständige Wohnbevölkerung mit Alter 0-17 im Kanton Zürich
-https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-0102010000_101/px-x-0102010000_101/px-x-0102010000_101.px_
+Quelle: Gemäss den von der Konferenz für Kindes- und Erwachsenenschutz (KOKES) veröffentlichen [Statistik](https://www.kokes.ch/de/dokumentation/statistik/details-fruehere-jahre))
