@@ -1,6 +1,9 @@
-# kokes_statistik
-Hier findest du einen Zusammenzug der gesamtschweizerische Kennzahlen zur KESB der Konferenz für Kindes- und Erwachsenenschutz (KOKES). Es stehen die folgenden Daten zur Verfügung:
+# Statistik KESB Schweiz
+Hier findest du einen Zusammenzug der **gesamtschweizerische Kennzahlen zur KESB** der Konferenz für Kindes- und Erwachsenenschutz (KOKES). Es stehen die folgenden Daten zur Verfügung:
 - Massnahmen Kinder [Tabelle](https://github.com/data-socialthink/kokes_statistik/blob/main/massnahmen_kinder.csv) / [maschienenlesbares CSV](https://raw.githubusercontent.com/data-socialthink/kesb-kokes_statistik/main/massnahmen_kinder.csv).
+
+*Weitere Daten werden bei Gelegenheit aufbereitet und hier zur Verfügung gestellt.*
+
 ## Variablen
 ### Massnahmen Kinder
 - Bezeichnung
